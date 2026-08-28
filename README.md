@@ -1,6 +1,6 @@
 # PDF Viewer & Editor
 
-A simple and modern Android application for viewing, creating, editing and managing PDF files directly from your device.
+A simple and modern Android application for viewing, creating, editing, and managing PDF files directly from your device.
 
 The app focuses on making common PDF tasks easy to access from one place, with a clean interface and smooth user experience.
 
@@ -30,7 +30,7 @@ The app focuses on making common PDF tasks easy to access from one place, with a
 
 ## My Role
 
-Designed and developed the application independently, including the UI, PDF viewing flow, editing features, file management and overall user experience.
+Designed and developed the application independently, including the UI, PDF viewing flow, editing features, file management, and overall user experience.
 
 ## Screenshots
 
@@ -38,12 +38,12 @@ Designed and developed the application independently, including the UI, PDF view
 
 <table>
 <tr>
-<td><img src="Screenshot_2.jpg" width="250"/></td>
-<td><img src="Screenshot_3.jpg" width="250"/></td>
+<td><img src="screenshots/Screenshot_2.jpg" width="250"/></td>
+<td><img src="screenshots/Screenshot_3.jpg" width="250"/></td>
 </tr>
 <tr>
-<td><img src="Screenshot_4.jpg" width="250"/></td>
-<td><img src="Screenshot_5.jpg" width="250"/></td>
+<td><img src="screenshots/Screenshot_4.jpg" width="250"/></td>
+<td><img src="screenshots/Screenshot_5.jpg" width="250"/></td>
 </tr>
 </table>
 
@@ -54,7 +54,7 @@ Designed and developed the application independently, including the UI, PDF view
 This project demonstrates practical Android development skills such as:
 
 - Building a complete application using Jetpack Compose
-- Designing reusable and responsive UI
+- Designing responsive UI
 - Working with local files and PDF documents
 - Implementing document editing interactions
 - Managing application state and navigation
